@@ -1,0 +1,401 @@
+/*font-family: 'Raleway', sans-serif;
+font-family: 'Tangerine', cursive;
+font-family: 'Montaga', serif;
+*/
+
+/*color palette see colorscheme.jpg to see color:
+purple: #3D3998
+lavender: #8C88BD
+midnight blue: #023159
+tangreen: #C9D779
+aqua: #53F3E5 */
+
+html {
+    position: relative;
+}
+
+body {
+    background-color: #c0c0c0;
+
+}
+
+.navbar-default{
+    background-color: #e6e6e6;
+    color: white;
+    margin-bottom: 0px;
+    border-color: #c0c0c0;
+    border-radius: 0px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.nav > li > a {
+    font-family: 'Raleway', sans-serif;
+    color: #4d4d4d;
+}
+
+
+.navbar .nav-pills > .active > a {
+    background-color: #999999;
+    color: white;
+}
+    
+.navbar .nav-pills > .active > a:hover {
+    background-color: white;
+    color: #4d4d4d;
+}
+
+.navbar-toggle btn {
+    border-color: white;
+    background-color: #c0c0c0;
+}
+
+.jumbotron {
+    background-image: url("../img/wedding-texture-bkgd.png");
+    background-size: contain;
+    height: 325px;
+    margin-bottom: 0px;
+}
+    
+.jumbotron-special {
+    background-image: url("../img/wedding-table-1174131_1920.jpg");
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/*styling for about page*/
+
+.panel-heading{
+    text-align: center;
+    background-color: #e6e6e6;
+}
+
+.panel{
+    position:relative;
+    margin-top:50px;
+}
+
+/*End of css for about*/
+
+
+/*Dimensions for Carousel pics
+.img-responsive {
+   width: 1024px;
+    height: 500px;
+}*/
+
+#carousel-homepagepics {
+    margin-top: 75px;
+}
+
+.h1 {
+    display: none;  /*working on fadeIn fadeOut of caption. the property and value for function to work must be at display:none.*/
+    position: relative;
+    font-family: 'Raleway', sans-serif;
+    color: white;
+}
+
+/*.footer {
+    position: absolute;
+    font-family: 'Raleway' sans-serif;
+    font-size: 16px;
+    text-align: justify;
+    text-align: center;
+    height: 60px;
+    width: 100%;
+    border: 6px;
+    border-color: #ff9999;
+    bottom: 0;
+    background-color: #c0c0c0;
+}*/
+
+hr {
+    border-width: 3%;  /*per W3 width in html5 should be specified using % for the <hr> element (3%)*/
+    color: white;
+}
+
+.row {
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+    color: #404040;
+    text-align: center;
+}
+
+.row img {
+    max-width: 100%;
+    height: auto;
+}
+
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div .panel-heading .style {
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    background-color: #e6e6e6;
+}
+
+.panel-body {
+    font-family: 'Montaga', serif;
+    font-size: 16px;
+}
+
+.btn-default {
+    background-color:#999999;
+    color: white;
+    font-family:'Raleway', sans-serif;
+}
+
+#servicesnote {
+    text-decoration: underline;
+}
+
+.package {
+    float: left;
+    height: 800px;
+    padding: 20px;
+}
+
+.packagepic {
+    width: 300px;
+    height: 400px;
+    border: 1px #ffffff solid;
+}
+
+.weddingpackagetitle {
+    font-family: 'Tangerine', cursive;
+    text-align: center;
+    font-size: 50px;
+    color: #FFFFFF;
+}
+
+.weddingpackagetitle2 {
+    font-family: 'Tangerine', cursive;
+    text-align: center;
+    font-size: 30px;
+    color: #FFFFFF;
+}
+
+
+.listtitle {
+    font-family: 'Montaga', serif;
+    text-decoration: underline;
+    color: #FFFFFF;
+    font-size: 17px;
+    text-align: center;
+}
+
+.services {
+    font-family: 'Montaga', serif;
+    color: #FFFFFF;
+    font-size: 16px;
+    list-style-type: none;
+    text-align: center;
+}
+
+
+
+#silver {
+    color: #a9a9a9;
+}
+
+#gold {
+    color: #FFD700;
+}
+
+#platinum {
+    color: #E5E4E2;
+}
+
+
+
+
+/* Reviews CSS */
+
+.review {
+    float: left;
+    padding: 20px;
+}
+
+.reviewpic {
+    width: 280px;
+    height: 280px;
+    border: 1px #ffffff solid;
+}
+
+.reviewtitle {
+    font-family: 'Tangerine', cursive;
+    text-align: left;
+    font-size: 50px;
+    color: #FFFFFF;
+}
+
+.reviewtitle2 {
+    font-family: 'Tangerine', cursive;
+    text-align: center;
+    font-size: 30px; /* Coherent with the Package class*/
+    color: #FFFFFF;
+}
+
+.reviewparagraph {
+    text-align: justify;
+    font-family: 'Montaga', serif;
+    font-size: 18px;
+    
+}
+
+/* End of reviews CSS*/
+
+.formtitles {
+    text-align: left;
+}
+
+  
+/*Adjustments for website top* DO NOT put CSS after this media query*/
+
+@media only screen and (max-width: 599px) {
+
+.tagline {
+    font-family: 'Tangerine', cursive;
+    font-size: 2.0em;
+    text-align: center;
+    color: #808080; /*#ff8080;*/ /*#ff9999;*/
+}
+
+.jumbotron p {
+    font-size: 6.5em;
+    color: #a9a9a9;
+    text-align: center;
+    line-height: 120px;
+    font-family: 'Raleway', sans-serif;
+}
+}
+
+@media only screen and (min-width: 600px) {
+.tagline {
+    font-family: 'Tangerine', cursive;
+    font-size: 75px;
+    text-align: center;
+    color: #808080; /*#ff8080;*/ /*#ff9999;*/
+}
+
+ .jumbotron p {
+    font-size: 100px;
+    color: #a9a9a9;
+    text-align: center;
+    line-height: 120px;
+    font-family: 'Raleway', sans-serif;
+}
+}
+
+
+.features-table-free li, .features-table-paid li {
+    background: #efefef none repeat scroll 0 0;
+    border-bottom: 2px solid #d4d4d4;
+	text-align:center;
+    /*padding: 16.4px 21px;*/
+	cursor:pointer;
+}
+.features-table-free h2, .features-table-paid h2 {
+    text-align: center;
+}
+.features-table-free li:hover, .features-table-paid li:hover {
+    background: #dedede none repeat scroll 0 0;
+	-webkit-transition: all .35s;
+    -moz-transition: all .35s;
+    transition: all .35s;
+}
+.features_table h2 {
+    font-size: 23px !important;
+}
+.features-table h2, .features-table-free h2, .features-table-paid h2 {
+    background: #6b6b6b none repeat scroll 0 0;
+    color: #fff;
+    font-weight: 600;
+    margin: 0;
+    padding: 19px 10px;
+    text-transform: uppercase;
+}
+.features-table h2 {
+    border-top-left-radius: 20px;
+	text-align:center;
+}
+.features-table-paid h2 {
+    border-top-right-radius: 20px;
+}
+.features-table-free li {
+    border-right: 2px solid #d4d4d4;
+}
+
+.fa.fa-check {
+    color: #2cc14f;
+}
+.fa.fa-times {
+    color: #BA5340;
+}
+.fa{
+	font-size:30px;
+}
+.no-padding{
+	padding:0;
+}
+ul{
+	padding:0;
+}
+
+body {
+  counter-reset: section;                   /* Set the section counter to 0 */
+}
+.features-table li::before {
+  counter-increment: section;               /* Increment the section counter*/
+  content: "" counter(section) ": "; /* Display the counter */
+}
+
+/*End of Wedding Services Table*/
+
+
+
+.features-table li {
+    background: #3D3998 none repeat scroll 0 0;
+    border-bottom: 2px solid #8C88BD;
+    color: #f1f1f1;
+    font-size: 16px;
+    padding: 8.35px 15px;
+    list-style-type: none;
+    font-family: 'Montaga', serif;
+    /*padding: 15px 24px;*/
+}
+
+.features-table h2 {
+    border-top-left-radius: 5px;
+	text-align:center;
+}
+.features-table-paid h2 {
+    border-top-right-radius: 5px;
+}
+
+.features-table h2 {
+    border-top-left-radius: 20px;
+	text-align: left;
+}
+
+.features_table h2 {
+    font-size: 23px !important;
+}
+
+.fa{
+	font-size:1em;
+}
+
+.features-table-free h2, .features-table-paid h2 {
+    text-align: center;
+}
+
+.features-table-free li, .features-table-paid li {
+    padding: 10px;
+    list-style-type: none;
+}
+

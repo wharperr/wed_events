@@ -1,0 +1,123 @@
+            <section class="features_table">
+        <div class="container">
+        	<div class="col-sm-5 col-5 col-xs-5 no-padding">
+            	<div class="features-table">
+                	<ul>
+                    	<h2>Wedding Services</h2>
+                    	<li>Initial Consultation</li>
+                    	<li>Budget Creation</li>
+                    	<li>Creative Ideas Workshop</li>
+                    	<li>Wedding Coaching</li>
+                    	<li>Vendor Referrals (if needed)</li>
+                    	<li>Vendor Liasion (recommended vendors)</li>
+                    	<li>Review of Vendor Contracts</li>
+                    	<li>Payment Schedule</li>
+                    	<li>Event Design + Styling Consultation</li>
+                    	<li>Customized Floral Design</li>
+                    	<li>Discounted Swarovski elements</li>
+                    	<li>Invitations & Guest Management</li>
+                    	<li>Comprehensive checklists</li>
+                    	<li>Planned Activities for Wedding Weekend</li>
+                        <li>Wedding Rehearsal</li>
+                        <li>Day-of Wedding Coordination</li>
+                        <li>Around-the-Clock Email Communication</li>
+                        <li>VIP phone access to Senior Wedding Planner</li>
+                        <li>Goodie Tote Bags for Guests</li>
+                        <li>Personal Assistant on Wedding Day</li>
+                        <li>Honeymoon Planning</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-sm-2 col-2 col-xs-2 no-padding">
+            <div class="features-table-free">
+                	<ul>
+                    	<h2 id="silver">Silver</h2>
+                        <li><i class="fa fa-check"></i>X</li>
+                        <li><i class="fa fa-check"></i>&nbsp;</li>
+                        <li><i class="fa fa-check"></i>X</li>
+                        <li><i class="fa fa-check"></i>&nbsp;</li>
+                        <li><i class="fa fa-check"></i>X</li>
+                        <li><i class="fa fa-check"></i>&nbsp;</li>
+                        <li><i class="fa fa-times"></i>&nbsp;</li>
+                        <li><i class="fa fa-check"></i>&nbsp;</li>
+                        <li><i class="fa fa-check"></i>&nbsp;</li>
+                        <li><i class="fa fa-check"></i>&nbsp;</li>
+                        <li><i class="fa fa-times"></i>&nbsp;</li>
+                        <li><i class="fa fa-times"></i>&nbsp;</li>
+                        <li><i class="fa fa-times"></i>X</li>
+                        <li><i class="fa fa-times"></i>&nbsp;</li>
+                        <li><i class="fa fa-times"></i>X</li>
+                        <li><i class="fa fa-times"></i>X</li>
+                        <li><i class="fa fa-check"></i>X</li>
+                        <li><i class="fa fa-times"></i>&nbsp;</li>
+                        <li><i class="fa fa-times"></i>&nbsp;</li>
+                        <li><i class="fa fa-times"></i>&nbsp;</li>
+                        <li><i class="fa fa-times"></i>&nbsp;</li>
+                        
+                    </ul>
+                </div>
+            
+            </div>
+            
+            <div class="col-sm-2 col-2 col-xs-2 no-padding">
+            <div class="features-table-free">
+                	<ul>
+                    	<h2 id="gold">Gold</h2>
+                        <li><i class="fa fa-check"></i>X</li>
+                        <li><i class="fa fa-check"></i>X</li>
+                        <li><i class="fa fa-check"></i>X</li>
+                        <li><i class="fa fa-check"></i>X</li>
+                        <li><i class="fa fa-check"></i>X</li>
+                        <li><i class="fa fa-check"></i>X</li>
+                        <li><i class="fa fa-times"></i>&nbsp;</li>
+                        <li><i class="fa fa-check"></i>X</li>
+                        <li><i class="fa fa-check"></i>&nbsp;</li>
+                        <li><i class="fa fa-check"></i>&nbsp;</li>
+                        <li><i class="fa fa-times"></i>&nbsp;</li>
+                        <li><i class="fa fa-times"></i>X</li>
+                        <li><i class="fa fa-times"></i>X</li>
+                        <li><i class="fa fa-times"></i>&nbsp;</li>
+                        <li><i class="fa fa-times"></i>X</li>
+                        <li><i class="fa fa-times"></i>X</li>
+                        <li><i class="fa fa-check"></i>X</li>
+                        <li><i class="fa fa-times"></i>&nbsp;</li>
+                        <li><i class="fa fa-times"></i>&nbsp;</li>
+                        <li><i class="fa fa-times"></i>&nbsp;</li>
+                        <li><i class="fa fa-times"></i>&nbsp;</li>
+                        
+                    </ul>
+                </div>
+            
+            </div>
+             <div class="col-sm-2 col-2 col-xs-2 no-padding">
+             	 <div class="features-table-paid">
+                	<ul>
+                    	<h2 id="platinum">Platinum</h2>
+                        <li><i class="fa fa-check"></i>X</li>
+                        <li><i class="fa fa-check"></i>X</li>
+                        <li><i class="fa fa-check"></i>X</li>
+                        <li><i class="fa fa-check"></i>X</li>
+                        <li><i class="fa fa-check"></i>X</li>
+                        <li><i class="fa fa-check"></i>X</li>
+                        <li><i class="fa fa-check"></i>X</li>
+                        <li><i class="fa fa-check"></i>X</li>
+                        <li><i class="fa fa-check"></i>X</li>
+                        <li><i class="fa fa-check"></i>X</li>
+                        <li><i class="fa fa-check"></i>X</li>
+                        <li><i class="fa fa-check"></i>X</li>
+                        <li><i class="fa fa-check"></i>X</li>
+                        <li><i class="fa fa-check"></i>X</li>
+                        <li><i class="fa fa-check"></i>X</li>
+                        <li><i class="fa fa-check"></i>X</li>
+                        <li><i class="fa fa-check"></i>X</li>
+                        <li><i class="fa fa-check"></i>X</li>
+                        <li><i class="fa fa-check"></i>X</li>
+                        <li><i class="fa fa-check"></i>X</li>
+                        <li><i class="fa fa-check"></i>X</li>
+                        
+                    </ul>
+                </div>
+             </div>
+        </div>
+    
+    </section>
