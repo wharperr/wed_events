@@ -210,7 +210,15 @@ div .panel-heading .style {
     color: #E5E4E2;
 }
 
+.weddingtable {
+    width: 1000px;
+}
 
+@media only screen and (max-width: 700px) {
+    .weddingtable {
+        display: none;
+    }
+}
 
 
 /* Reviews CSS */
